@@ -1,0 +1,3 @@
+/home/cisco/kolos_pegiel/kolokwium/Zad5/build/CMakeFiles/rebuild_cache.dir
+/home/cisco/kolos_pegiel/kolokwium/Zad5/build/CMakeFiles/myProgram.dir
+/home/cisco/kolos_pegiel/kolokwium/Zad5/build/CMakeFiles/edit_cache.dir
